@@ -1,3 +1,5 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-j-nakajima&theme=react)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=g-j-nakajima&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
