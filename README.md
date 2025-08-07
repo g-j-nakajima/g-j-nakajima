@@ -11,6 +11,7 @@
 <ul>
   <li><a href="https://tech-blog.tokyo-gas.co.jp/entry/2024/02/09/123725" target="_blank">myTOKYOGAS内製化ジャーニー ~ エンジニアゼロからの挑戦 ~</a></li>
   <li><a href="https://note.com/tg_developer/n/n5413d46ebd6d" target="_blank">東京ガス内製開発チームの技術スタックと開発環境【2022年版】</a></li>
+  <li><a href="https://tech-blog.tokyo-gas.co.jp/entry/2024/05/21/121157" target="_blank">DevOpsDays Tokyo 2024で登壇しました！</a></li>
   <li><a href="https://enterprisezine.jp/article/detail/22304?p=3&anchor=0" target="_blank">東京ガス、「myTOKYOGAS」の開発内製化をTiDBで加速　エンジニアが事業を動かす環境へ</a></li>
   <li><a href="https://xtech.nikkei.com/atcl/nxt/column/18/02728/" target="_blank">東京ガスが挑んだシステム内製の全貌</a></li>
   <li><a href="https://codezine.jp/article/detail/20078" target="_blank">東京ガスの内製開発チーム、「技術面接」がエンジニア0人からの挑戦を可能にしたカギだった</a></li>
